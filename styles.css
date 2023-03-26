@@ -1,6 +1,7 @@
 html, body {
     margin: 0;
     font-family: 'Karla', sans-serif;
+    font-size: 16px;
 }
 
 /*typography*/
@@ -15,15 +16,15 @@ h1, h2{
 }
 
 h1{
-    font-size: 28px;
+    font-size: 1.75rem;
 }
 
 h2 {
-    font-size: 16px;
+    font-size: 1rem;
 }
 
 h3{
-    margin: 25px;
+    margin: 1.5em;
 }
 
 /* layout */
@@ -160,3 +161,5 @@ input[type="radio"]{
     background-color: #bd301d;
     border: 2px solid #bd301d;
 }
+
+
